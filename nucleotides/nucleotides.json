@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Adenine",
+        "symbol": "A"
+    },
+    {
+        "name": "Guanine",
+        "symbol": "G"
+    },
+    {
+        "name": "Cytosine",
+        "symbol": "C"
+    },
+    {
+        "name": "Thymine",
+        "symbol": "T"
+    },
+    {
+        "name": "Uracil",
+        "symbol": "U"
+    },
+]
