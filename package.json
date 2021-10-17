@@ -1,0 +1,19 @@
+{
+  "name": "genetics",
+  "version": "1.0.0",
+  "description": "genetics and epigenetics study repo.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Faridmurzone/genetics.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Faridmurzone/genetics/issues"
+  },
+  "homepage": "https://github.com/Faridmurzone/genetics#readme"
+}

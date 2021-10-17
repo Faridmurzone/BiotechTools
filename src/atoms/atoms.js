@@ -1,4 +1,4 @@
-[
+const atoms = [
     {
         "name": "Hydrogen",
         "appearance": "colorless gas",
@@ -5074,3 +5074,5 @@
         "cpk-hex": null
     }
 ]
+
+module.exports = { atoms }

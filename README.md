@@ -5,7 +5,7 @@ Cell Bio
 
 [x] Lib1 - atoms
 
-[] Lib2 - bonds
+[x] Lib2 - bonds
 
 [] Lib3 - organic molecules
 
