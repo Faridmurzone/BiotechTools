@@ -13,7 +13,7 @@ async function getElectronegativyDiff(a1, a2) {
 
 async function getAtomsCategory(...a) {
     /*
-        Returns Atom Category
+        Returns Atoms Category
     */
 
     return atomsCategory = a.map(atom => {
