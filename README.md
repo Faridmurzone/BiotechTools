@@ -3,7 +3,7 @@ genetics and epigenetics study repo.
 
 Cell Bio
 
-[x] Lib1 - atoms
+- [x] Lib1 - atoms
 
 [x] Lib2 - bonds
 
