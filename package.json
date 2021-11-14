@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Faridmurzone/genetics/issues"
   },
-  "homepage": "https://github.com/Faridmurzone/genetics#readme"
+  "homepage": "https://github.com/Faridmurzone/genetics#readme",
+  "devDependencies": {
+    "@types/node": "^16.11.1"
+  }
 }

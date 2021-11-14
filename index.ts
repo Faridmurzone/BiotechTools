@@ -1,4 +1,4 @@
-const {getElectronegativyDiff, getBondType} = require('./src/bonds/bonds.js')
+import { getElectronegativyDiff, getBondType } from "./src/bonds/bonds";
 
 
 /* Pruebas */

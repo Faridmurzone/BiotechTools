@@ -16,7 +16,7 @@ async function getAtomsCategory(...a) {
         Returns Atoms Category
     */
 
-    return atomsCategory = a.map(atom => {
+    return a.map(atom => {
         console.log(atom)
         return atoms.find(el => el.symbol === atom).category
     })
@@ -46,7 +46,7 @@ async function getBondType(a1, a2) {
 }
 
 
-module.exports = {
+export = {
     getBondType,
     getElectronegativyDiff
 }
