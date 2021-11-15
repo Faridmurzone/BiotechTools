@@ -43,7 +43,7 @@ En el ARN encontramos Ribosa
 Tanto ADN como ARN tienen un grupo fosfato. Casi todos los ADN tienen una cadena coble.
 
 Tipos de ADN: Uno solo.
-Tipo de ARN: ARNm (mensajero), ARNr (ribosómico), ARNt (transferencia)
+Tipo de ARN: mRNA (mensajero), ARNr (ribosómico), ARNt (transferencia)
 
 ## Lípidos
 No tiene una unidad estructural como las otras macromoléculas. Llamamos lípidos a los que tienen solubilidad en solventes orgánicos y son insolubles en agua.

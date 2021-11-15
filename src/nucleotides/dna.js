@@ -1,10 +1,10 @@
-function codingStrandToARNm(codingStrand) {
-    /* This function changes coding strand bases to ARNm bases */
+function codingStrandTomRNA(codingStrand) {
+    /* This function changes coding strand bases to mRNA bases */
     return codingStrand.replace(/T/g, 'U')
 }
 
-function ARNmToCodingStrand(arn) {
-    /* This function changes ARNm bases to coding strand bases */
+function mRNAToCodingStrand(arn) {
+    /* This function changes mRNA bases to coding strand bases */
     return arn.replace(/U/g, 'T')
 }
 
@@ -13,6 +13,6 @@ function switchTemplateStrandCodingStrand(strand) {
     return strand.replace(/G/g, 'C').replace(/T/g, 'A').replace(/A/g, 'T').replace(/C/g, 'G')
 }
 
-function templateStrandToARNm(strand) {
+function templateStrandTomRNA(strand) {
     return strand.replace(/G/g, 'C').replace(/T/g, 'A').replace(/A/g, 'T').replace(/C/g, 'G')
 }
