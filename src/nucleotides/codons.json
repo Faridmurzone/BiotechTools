@@ -1,0 +1,430 @@
+{
+    "GCU": {
+        "aminoacid": "https://www.genscript.com/tools/codon-table",
+        "synonyms": [
+                "GCC",
+                "GCA",
+                "GCG" ]
+    },
+    "GCC": {
+        "aminoacid": "",
+        "synonyms": [
+                "GCU",
+                "GCA",
+                "GCG" ]
+    },
+    "GCA": {
+        "aminoacid": "",
+        "synonyms": [
+            "GCU",
+            "GCC",
+            "GCG" ]
+    },
+    "GCG": {
+        "aminoacid": "",
+        "synonyms": [
+            "GCU",
+            "GCC",
+            "GCA" ]
+    },
+    "CGU": {
+        "aminoacid": "",
+        "synonyms": [
+            "CGC",
+            "CGA",
+            "CGG",
+            "AGA",
+            "AGG" ]
+    },
+    "CGC": {
+        "aminoacid": "",
+        "synonyms": [
+            "CGU",
+            "CGA",
+            "CGG",
+            "AGA",
+            "AGG" ]
+    },
+    "CGA": {
+        "aminoacid": "",
+        "synonyms": [
+            "CGU",
+            "CGC",
+            "CGG",
+            "AGA",
+            "AGG" ]
+    },
+    "CGG": {
+        "aminoacid": "",
+        "synonyms": [
+            "CGU",
+            "CGC",
+            "CGA",
+            "AGA",
+            "AGG" ]
+    },
+    "AGA": {
+        "aminoacid": "",
+        "synonyms": [
+            "CGU",
+            "CGC",
+            "CGA",
+            "CGG",
+            "AGG" ]
+    },
+    "AGG": {
+        "aminoacid": "",
+        "synonyms": [
+            "CGU",
+            "CGC",
+            "CGA",
+            "CGG",
+            "AGA" ]
+    },
+    "AAU": {
+        "aminoacid": "",
+        "synonyms": [
+            "AAC" ]
+    },
+    "AAC": {
+        "aminoacid": "",
+        "synonyms": [
+            "AAU" ]
+    },
+    "GAU": {
+        "aminoacid": "",
+        "synonyms": [
+            "GAC" ]
+    },
+    "GAC": {
+        "aminoacid": "",
+        "synonyms": [
+            "GAU" ]
+    },
+    "UGU": {
+        "aminoacid": "",
+        "synonyms": [
+            "UGC" ]
+    },
+    "UGC": {
+        "aminoacid": "",
+        "synonyms": [
+            "UGU" ]
+    },
+    "CAA": {
+        "aminoacid": "",
+        "synonyms": [
+            "CAG" ]
+    },
+    "CAG": {
+        "aminoacid": "",
+        "synonyms": [
+            "CAA" ]
+    },
+    "GAA": {
+        "aminoacid": "",
+        "synonyms": [
+            "GAG" ]
+    },
+    "GAG": {
+        "aminoacid": "",
+        "synonyms": [
+            "GAA" ]
+    },
+    "GGU": {
+        "aminoacid": "",
+        "synonyms": [
+            "GGC",
+            "GGA",
+            "GGG" ]
+    },
+    "GGC": {
+        "aminoacid": "",
+        "synonyms": [
+            "GGU",
+            "GGA",
+            "GGG" ]
+    },
+    "GGA": {
+        "aminoacid": "",
+        "synonyms": [
+            "GGU",
+            "GGC",
+            "GGG" ]
+    },
+    "GGG": {
+        "aminoacid": "",
+        "synonyms": [
+            "GGU",
+            "GGC",
+            "GGA" ]
+    },
+    "CAU": {
+        "aminoacid": "",
+        "synonyms": [
+            "CAC" ]
+    },
+    "CAC": {
+        "aminoacid": "",
+        "synonyms": [
+            "CAU" ]
+    },
+    "AUU": {
+        "aminoacid": "",
+        "synonyms": [
+            "AUC",
+            "AUA" ]
+    },
+    "AUC": {
+        "aminoacid": "",
+        "synonyms": [
+            "AUU",
+            "AUA" ]
+    },
+    "AUA": {
+        "aminoacid": "",
+        "synonyms": [
+            "AUU",
+            "AUC" ]
+    },
+    "UUA": {
+        "aminoacid": "",
+        "synonyms": [
+            "UUG",
+            "CUU",
+            "CUC",
+            "CUA",
+            "CUG" ]
+    },
+    "UUG": {
+        "aminoacid": "",
+        "synonyms": [
+            "UUA",
+            "CUU",
+            "CUC",
+            "CUA",
+            "CUG" ]
+    },
+    "CUU": {
+        "aminoacid": "",
+        "synonyms": [
+            "UUA",
+            "UUG",
+            "CUC",
+            "CUA",
+            "CUG" ]
+    },
+    "CUC": {
+        "aminoacid": "",
+        "synonyms": [
+            "UUA",
+            "UUG",
+            "CUU",
+            "CUA",
+            "CUG" ]
+    },
+    "CUA": {
+        "aminoacid": "",
+        "synonyms": [
+            "UUA",
+            "UUG",
+            "CUU",
+            "CUC",
+            "CUG" ]
+    },
+    "CUG": {
+        "aminoacid": "",
+        "synonyms": [
+            "UUA",
+            "UUG",
+            "CUU",
+            "CUC",
+            "CUA" ]
+    },
+    "AAA": {
+        "aminoacid": "",
+        "synonyms": [
+            "AAG" ]
+    },
+    "AAG": {
+        "aminoacid": "",
+        "synonyms": [
+            "AAA" ]
+    },
+    "UUU": {
+        "aminoacid": "",
+        "synonyms": [
+            "UUC" ]
+    },
+    "UUC": {
+        "aminoacid": "",
+        "synonyms": [
+            "UUU" ]
+    },
+    "CCU": {
+        "aminoacid": "",
+        "synonyms": [
+            "CCC",
+            "CCA",
+            "CCG" ]
+    },
+    "CCC": {
+        "aminoacid": "",
+        "synonyms": [
+            "CCU",
+            "CCA",
+            "CCG" ]
+    },
+    "CCA": {
+        "aminoacid": "",
+        "synonyms": [
+            "CCU",
+            "CCC",
+            "CCG" ]
+    },
+    "CCG": {
+        "aminoacid": "",
+        "synonyms": [
+            "CCU",
+            "CCC",
+            "CCA" ]
+    },
+    "UCU": {
+        "aminoacid": "",
+        "synonyms": [
+            "UCC",
+            "UCA",
+            "UCG",
+            "AGU",
+            "AGC" ]
+    },
+    "UCC": {
+        "aminoacid": "",
+        "synonyms": [
+            "UCU",
+            "UCA",
+            "UCG",
+            "AGU",
+            "AGC" ]
+    },
+    "UCA": {
+        "aminoacid": "",
+        "synonyms": [
+            "UCU",
+            "UCC",
+            "UCG",
+            "AGU",
+            "AGC" ]
+    },
+    "UCG": {
+        "aminoacid": "",
+        "synonyms": [
+            "UCU",
+            "UCC",
+            "UCA",
+            "AGU",
+            "AGC" ]
+    },
+    "AGU": {
+        "aminoacid": "",
+        "synonyms": [
+            "UCU",
+            "UCC",
+            "UCA",
+            "UCG",
+            "AGC" ]
+    },
+    "AGC": {
+        "aminoacid": "",
+        "synonyms": [
+            "UCU",
+            "UCC",
+            "UCA",
+            "UCG",
+            "AGU" ]
+    },
+    "ACU": {
+        "aminoacid": "",
+        "synonyms": [
+            "ACC",
+            "ACA",
+            "ACG" ]
+    },
+    "ACC": {
+        "aminoacid": "",
+        "synonyms": [
+            "ACU",
+            "ACA",
+            "ACG" ]
+    },
+    "ACA": {
+        "aminoacid": "",
+        "synonyms": [
+            "ACU",
+            "ACC",
+            "ACG" ]
+    },
+    "ACG": {
+        "aminoacid": "",
+        "synonyms": [
+            "ACU",
+            "ACC",
+            "ACA" ]
+    },
+    "UAU": {
+        "aminoacid": "",
+        "synonyms": [
+            "UAC" ]
+    },
+    "UAC": {
+        "aminoacid": "",
+        "synonyms": [
+            "UAU" ]
+    },
+    "GUU": {
+        "aminoacid": "",
+        "synonyms": [
+            "GUC",
+            "GUA",
+            "GUG" ]
+    },
+    "GUC": {
+        "aminoacid": "",
+        "synonyms": [
+            "GUU",
+            "GUA",
+            "GUG" ]
+    },
+    "GUA": {
+        "aminoacid": "",
+        "synonyms": [
+            "GUU",
+            "GUC",
+            "GUG" ]
+    },
+    "GUG": {
+        "aminoacid": "",
+        "synonyms": [
+            "GUU",
+            "GUC",
+            "GUA" ]
+    },
+    "UAA": {
+        "aminoacid": "",
+        "synonyms": [
+            "UGA",
+            "UAG" ]
+    },
+    "UGA": {
+        "aminoacid": "",
+        "synonyms": [
+            "UAA",
+            "UAG" ]
+    },
+    "UAG": {
+        "aminoacid": "",
+        "synonyms": [
+            "UAA",
+            "UGA" ]
+    }
+}
