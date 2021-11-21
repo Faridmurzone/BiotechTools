@@ -25,9 +25,15 @@ Physics
 
 
 ## References:
+
 [FASTA JSON](https://gist.github.com/BenLangmead/8307011)
+
 [FASTA] (http://en.wikipedia.org/wiki/FASTA_format)
+
 [BioPython] (http://biopython.org/wiki/Main_Page)
+
 [SeqIO] (http://biopython.org/wiki/SeqIO)
+
 [SAMtools] (http://samtools.sourceforge.net/)
+
 [FASTX] (http://hannonlab.cshl.edu/fastx_toolkit)
