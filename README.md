@@ -1,33 +1,51 @@
-# genetics
-genetics and epigenetics study repo.
+# BioTech Tools
 
-Cell Bio
+This is a repository in which I will make a toolkit for essential biological and biotech operations. My purpose is to build from the most basic functions to more complex ones, always keeping the source code open to collaborations or external use.
 
-- [x] Lib1 - atoms
+If any of the features in this repository are useful to you, copy them. There is so much remaining to be done in the field of biotechnology and it is important to join forces to solve the major problems we are facing as humanity and with our environment.
 
-- [x] Lib2 - bonds
+Some of the ideas that I have already started to develop and think from this repo are:
 
-- [ ] Lib3 - organic molecules
+- [ ] atoms
 
-- [ ] Lib4 - nucleothids
+- [ ] bonds
 
-- [ ] Lib5 - protein
+- [ ] Phisics -> Energy
 
-- [ ] Lib6 - DNA
+- [ ] organic molecules
 
-- [ ] Lib6 - epigenetics
+- [ ] nucleothids
 
-- [ ] Lib6 - metabolism
+- [ ] protein
+
+- [ ] Epigenetics
+
+- [ ] Metabolism
+
+- [ ] Cell division: meiosis and mitosis
+
+- [ ] Cell parts
+
+- [ ] DNA
+
+- [ ] Evolution
+
+- [ ] Simulation of genetic experiments with AI
 
 
-Physics
-- [ ] Lib1 - Energy
 
 
-## References:
+
+## Some References:
+
 [FASTA JSON](https://gist.github.com/BenLangmead/8307011)
+
 [FASTA] (http://en.wikipedia.org/wiki/FASTA_format)
+
 [BioPython] (http://biopython.org/wiki/Main_Page)
+
 [SeqIO] (http://biopython.org/wiki/SeqIO)
+
 [SAMtools] (http://samtools.sourceforge.net/)
+
 [FASTX] (http://hannonlab.cshl.edu/fastx_toolkit)
